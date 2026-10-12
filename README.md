@@ -117,11 +117,3 @@ Finder 请求右键菜单
 ## 卸载
 
 先在系统设置中停用「新建」Finder 扩展，再将 `~/Applications/FinderNewOffice.app` 移到废纸篓并重新打开 Finder。已经创建的文档不会被删除。
-
-## 发布内容与许可
-
-仓库发布源码、脚本、README 和 MIT License。`build/`、应用二进制、生成的文档、个人路径、GitHub 凭据及本机配置不在发布内容中。
-
-本项目从 NewDocHere 整理而来，公开项目名为 **FinderNewOffice**，保留 `NewDocSync` 类名和原始 MIT 版权声明。
-
-[MIT License](LICENSE) · Copyright (c) 2026 xiaohan
